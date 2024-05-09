@@ -22,6 +22,9 @@ This project is designed to extract text from multi-page PDF files and store the
 
 This project can be particularly useful in scenarios where large amounts of data are locked in PDF files, and there is a need to extract this data for further analysis or processing.
 
+## Application Architecture
+![architecture diagram](ExtractGenArchitectureDiagram.jpg)
+
 ## Getting Started
 
 To get started with this project, you can follow the instructions in the [video](https://www.youtube.com/watch?v=wTmT9deo9dU) to set up the environment and get going. To get an in depth understanding of the project including the Deployment model, Delivery Model, Architecture, Security, Reproducing cost, Monitoring, and further development, please refer this [report](B00945177_BhishmanDesai_FinalReport.pdf).
