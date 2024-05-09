@@ -1,0 +1,1 @@
+You can store all these zip files in S3 to implement full automated IaC.
